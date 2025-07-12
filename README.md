@@ -1,7 +1,6 @@
-<h1 align="center"> StudySync - Organizador de Estudos Pomodoro </h1>
-StudySync é uma aplicação web completa para gerenciamento de estudos baseada na técnica Pomodoro.
+<h1 align="center"> StudySync - Organizador de Estudos Pomodoro </h1> ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+StudySync é uma aplicação web completa para gerenciamento de estudos baseada na técnica Pomodoro.
 
 O StudySync é uma aplicação web integrada que combina a técnica Pomodoro com gestão de tarefas acadêmicas. Ele permite que estudantes criem tarefas organizadas por disciplina, definam sessões de estudo cronometradas e acompanhem seu progresso através de relatórios visuais. Com seu timer inteligente, o sistema alterna automaticamente entre períodos de foco intenso (25 minutos) e pausas estratégicas (5 minutos), registrando cada ciclo concluído para análise posterior.
 
