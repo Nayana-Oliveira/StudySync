@@ -1,12 +1,12 @@
 <h1 align="center"> StudySync - Organizador de Estudos Pomodoro </h1> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayana-oliveira/)
-![HTML]https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
-![CSS]https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
 [![GMAIL]https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white](nayanaheslley123@gmail.com)
-![JavaScript]https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-![Node.Js]https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
-![MySQL]https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 
 StudySync é uma aplicação web completa para gerenciamento de estudos baseada na técnica Pomodoro.
 
